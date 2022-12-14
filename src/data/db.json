@@ -1,0 +1,65 @@
+{ "places": [
+    {
+        "id":"1",
+        "title": "Walman Ring",
+        "detail": "Ice ring is a Ring",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/21/Central_Park_Wollman_Rink.jpg",
+        "route": "3"
+    },
+    {
+        "id":2,
+        "title": "Central Park Zoo",
+        "detail": "Zoo with alot of animals",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/80/Sea_lion_pool_in_Central_Park_Zoo%2C_New_York_City_2013.jpg",
+        "route": "3"
+    },
+    {
+        "id":3,
+        "title": "Carousel",
+        "detail": "Ring with horse inside turning around",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Central_Park_Carousel_%2849019860351%29.jpg",
+        "route": "3"
+    },
+    {
+        "id":5,
+        "title": "Conservatory Pond",
+        "detail": "With allice statue inside and white",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/84/2910-Central_Park-Conservatory_Pond.JPG",
+        "route": "3"
+    },
+    {
+        "id":6,
+        "title": "Bethesda Terrace",
+        "detail": "Terrace with angle of water",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Angel_of_the_Waters_Fountain_and_Bethesda_Terrace%2C_Central_Park%2C_NYC.jpg",
+        "route": "3"
+    },
+    {
+        "id":4,
+        "title": "Central Park Mall",
+        "detail": "Straight way to walk",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Central_Park_Mall_and_Literary_Walk_1.jpg",
+        "route": "2"
+    },
+    {
+        "id":7,
+        "title": "Cherry Hill Fountain",
+        "detail": "Watering for horses and Romatic Bride",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/84/2910-Central_Park-Conservatory_Pond.JPG",
+        "route": "1"
+    },
+    {
+        "id":8,
+        "title": "Strawberry Fields",
+        "detail": "Memorial of John Lenon",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/2d/2960-Central_Park-Strawberry_Fields.JPG",
+        "route": "1"
+    },
+    {
+        "id":9,
+        "title": "Sheep Meadow",
+        "detail": "Sunbathing place",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Apr%C3%ADl_2004_004.jpg",
+        "route": "1"
+    }
+]} 
